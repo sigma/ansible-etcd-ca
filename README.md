@@ -3,6 +3,8 @@ etcd-ca
 
 A role to create/use an etcd-ca instance to generate certificates for hosts
 
+Current version: 0.0.2
+
 Role Variables
 --------------
 
